@@ -35,10 +35,10 @@ Replace `YOURLOCALFOLDER` with the absolute path to your local folder that conta
 
 This repository includes four configuration folders:
 
-- `nexmark-config1/`
-- `nexmark-config2/`
-- `nexmark-config3/`
-- `nexmark-config4/`
+- `nexmark-config-1/`
+- `nexmark-config-2/`
+- `nexmark-config-3/`
+- `nexmark-config-4/`
 
 Each folder contains a tailored `NEXMarkGeneratorConfiguration.properties` file, aligned with one of the four workload scenarios described below. These configurations define tuple counts, stream emission rates, and auction durations to simulate different streaming conditions.
 
